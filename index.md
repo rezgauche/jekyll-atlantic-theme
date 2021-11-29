@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jekyll Atlantic Theme
-heading: <em>Jekyll Tailwind</em> Starter Blog
-description: Atlantic is a beautiful Tailwind CSS theme for Jekyll. It shows best practices for using Tailwind with Jekyll.
+heading: <em>rez gauche</em> artowrks & more
+description: rez gauche is responsive to an immediate representation of artists.
 
 ---
