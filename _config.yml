@@ -42,8 +42,8 @@ collections:
 
 defaults:
   - scope:
-      path: "collections"
-      type: posts
+      path: ""
+      type: 
     values:
       layout: post
   - scope:
